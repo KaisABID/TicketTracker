@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TicketsTracker
 build_property.RootNamespace = TicketsTracker
-build_property.ProjectDir = P:\CodingDojo\Project2\TicketsTracker\
+build_property.ProjectDir = C:\Users\belai\OneDrive\Bureau\GroupProject\TicketTracker\TicketsTracker\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = P:\CodingDojo\Project2\TicketsTracker
+build_property.MSBuildProjectDirectory = C:\Users\belai\OneDrive\Bureau\GroupProject\TicketTracker\TicketsTracker
 build_property._RazorSourceGeneratorDebug = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/Home/Index.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/Home/Menu.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/Home/Menu.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW51LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/Shared/Error.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/User/UserCard.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/User/UserCard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyQ2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/User/UserTable.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/User/UserTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxVc2VyVGFibGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/_ViewImports.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/_ViewStart.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/CodingDojo/Project2/TicketsTracker/Views/Shared/_Layout.cshtml]
+[C:/Users/belai/OneDrive/Bureau/GroupProject/TicketTracker/TicketsTracker/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v17yv4v3rr
